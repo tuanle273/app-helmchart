@@ -1,2 +1,2 @@
 image: harbor.tuanla.dev/demo/demo-app
-  tag: ""
+  tag: "v1.10"
