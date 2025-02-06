@@ -5,10 +5,10 @@
 replicaCount: 2
 
 image:
-  repository: rockman88v/demo-app
+  repository: harbor.tuanla.dev/demo/demo-app
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "v1.5"
+  #tag: "v1.5"
 
 imagePullSecrets: []
 nameOverride: ""
